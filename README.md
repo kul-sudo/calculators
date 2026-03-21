@@ -40,7 +40,6 @@ An assortment of reverse polish notation calculators in different languages
 - x86 ASM
 - Odin
 - C3
-- Zig
 - Hare
 - Dart
 - BQN
