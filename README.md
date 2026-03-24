@@ -47,7 +47,6 @@ An assortment of reverse polish notation calculators in different languages
 - QBE IR
 - LLVM IR
 - Holy C
-- D
 - C--
 - Julia
 - Janet
